@@ -1,0 +1,88 @@
+.titre{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  border: 2px solid #ffffff;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #630303;}
+body{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dfd4236f-b63b-424c-837e-cbd431b7820f/de7igqt-885c01d2-1008-46e8-943c-eab2ca74ca8b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kZmQ0MjM2Zi1iNjNiLTQyNGMtODM3ZS1jYmQ0MzFiNzgyMGYvZGU3aWdxdC04ODVjMDFkMi0xMDA4LTQ2ZTgtOTQzYy1lYWIyY2E3NGNhOGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eoVTwno2nuMpDGH_DIBHkxLbJC1VlxAmSckh75Hehvg);
+    background-repeat: no-repeat;
+    background-attachment:relative; 
+    background-size: 1150px 925px;
+    background-position: center;
+    background-color:#000000;
+    }
+.miyazaki{
+ border-radius: 3000px 3000px 3000px 3000px;
+  border: 2px solid #ffffff;
+  background-color:#000000;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  float:left;
+}
+.miyazaki:hover{
+ border-radius: 0px 0px 0px 0px;
+  border: 2px solid #ffffff;
+  background-color:#000000;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  transition: border-radius 1s;
+  float:left;
+}
+.QuestcequeBloodborne{
+    margin-left:300;
+    font-size:50px;
+    text-shadow: 0 0 5px #ffffff;
+}
+.content{
+    text-align:right;
+    font-size: 17px;
+    color:#ffffff;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.Hidetaka{
+   font-size:50px;
+    text-shadow: 0 0 5px #ffffff;
+    margin-left: 25px;
+}
+.résumé{
+    margin-left: 680px;
+    font-size:50px;
+    text-shadow: 0 0 5px #ffffff;
+}
+.summary{
+  text-align: right;
+  float:right;
+  color:#ffffff;
+  font-size: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+.Miyazaki2{
+  color:#ffffff;
+  font-size: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  float:left;
+}

@@ -1,0 +1,23 @@
+p{
+  color:#ffffff;
+}
+body{
+    background-color: black;
+    background-image: url(https://i.imgur.com/WB7TUy2.png);  
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  border: 2px solid #ffffff;}
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;}
+
+ul li a:hover {
+  background-color: #630303;} 
